@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/victorosmov0634/az400-lab-02/_apis/build/status/osmov.ContosoAir?branchName=master)](https://dev.azure.com/victorosmov0634/az400-lab-02/_build/latest?definitionId=4&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
